@@ -1,5 +1,5 @@
 <h1 align="center"> Ashwani  ! 👋</h1>
-<h3 align="center"> Hello everyone, I am a Javascript Developer.</h1>
+<h3 align="center"> Hello everyone, I am a Software Developer.</h1>
 
 ## 🙋‍♂️ About Me
 - 👋 Hi, I’m Ashwai
