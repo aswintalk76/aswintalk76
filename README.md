@@ -2,11 +2,11 @@
 <h3 align="center"> Hello everyone, I am a Software Developer.</h1>
 
 ## 🙋‍♂️ About Me
-- 👋 Hi, I’m Ashwai
+- 👋 Hi, I’m Ashwani
 - 🖥️ I am Computer Science Undergraduate.
 - 👀 I’m I am interested in web and app development.
 - 🌱 I'm currently learning Redux, React Native and NodeJs..
-- 📫 You can reach me in ashwaniagrahari76@gmail.com
+- 📫 You can reach me in aswintalk76@gmail.com
 
 <!---
 aswintalk76/aswintalk76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
