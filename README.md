@@ -1,19 +1,13 @@
 <h1 align="center">   Hi 👋, I'm Ashwani </h1>
 <h3 align="center"> Hello everyone, I am a Professional Full Stack Develope</h1>
-## 🙋‍♂️ About Me
-- 👋 Hi, I’m Ashwani
-- 🖥️ I am Computer Science Undergraduate.
-- 👀 I’m I am interested in web and app development.
-- 👯 I’m looking to collaborate on Freelance Projects
-- 💬 Ask me about Html, CSS , Javascript, TypeScript, React, React Native, Prompt Engineering, Nodejs, Express, MongoDB,Php,Laravel.
-- 📫 How to reach me aswintalk76@gmail.com
 
 ## 🙋‍♂️ About Me
 - 👋 Hi, I’m Ashwai
 - 🖥️ I am Computer Science Undergraduate.
 - 👀 I’m I am interested in web and app development.
-- 🌱 I'm currently learning Redux, React Native and NodeJs..
-- 📫 You can reach me in ashwaniagrahari76@gmail.com
+- 👯 I’m looking to collaborate on Freelance Projects
+- 💬 Ask me about Html, CSS , Javascript, TypeScript, React, React Native, Prompt Engineering, Nodejs, Express, MongoDB,Php,Laravel.
+- 📫 How to reach me aswintalk76@gmail.com
 
 <!---
 aswintalk76/aswintalk76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
